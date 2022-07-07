@@ -1,5 +1,5 @@
 # ts-start-template
-Clear typescript start template
+Clear typescript start template. Lint & auto fix
 
 # Usage
 Clone code
